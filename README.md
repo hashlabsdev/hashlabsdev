@@ -1,21 +1,24 @@
 <div align="center">
 
-# `#` Hash Labs
+<img src="https://img.shields.io/badge/%23-Hash%20Labs-6c63ff?style=for-the-badge&labelColor=0d0f14&color=6c63ff" height="44"/>
 
-**ENGINEERING DIGITAL PRODUCTS THAT MATTER**
+# Hash Labs
+
+<sub>ENGINEERING DIGITAL PRODUCTS THAT MATTER</sub>
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/@hashc__oding-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hashc_oding)
-[![LinkedIn](https://img.shields.io/badge/Hash_Company-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/hash-company)
+[![Instagram](https://img.shields.io/badge/•%20%40hashc__oding-1a1a2e?style=flat-square&logo=instagram&logoColor=e879f9&labelColor=13151f)](https://instagram.com/hashc_oding)
+[![LinkedIn](https://img.shields.io/badge/•%20Hash%20Company-1a1a2e?style=flat-square&logo=linkedin&logoColor=3b82f6&labelColor=13151f)](https://linkedin.com/company/hash-company)
 
 </div>
 
 ---
 
-## 🧩 ABOUT
+<!-- ABOUT -->
+### 🧩 &nbsp;ABOUT
 
-### Who We Are
+## Who We Are
 
 **Hash Labs** is a software company that builds digital products for businesses demanding reliability and precision. We specialize in custom web applications, POS systems, and mobile apps — engineered from the ground up with performance-first architecture and clean, maintainable code.
 
@@ -23,29 +26,30 @@
 
 ---
 
-## 🔧 PRODUCTS
+<!-- PRODUCTS -->
+### 🔧 &nbsp;PRODUCTS
 
-### What We Build
+## What We Build
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**🌐 Web Applications**
+**🌐 &nbsp;Web Applications**
 
 Scalable, modern platforms built for speed and usability — from dashboards to full SaaS products.
 
 </td>
 <td width="33%" valign="top">
 
-**🖥️ POS Systems**
+**🖥️ &nbsp;POS Systems**
 
 Purpose-built point-of-sale for Pharmacy and Retail — inventory, billing, and reporting in one system.
 
 </td>
 <td width="33%" valign="top">
 
-**📱 Mobile Apps**
+**📱 &nbsp;Mobile Apps**
 
 Cross-platform mobile applications that are fast, intuitive, and ready for production.
 
@@ -55,9 +59,10 @@ Cross-platform mobile applications that are fast, intuitive, and ready for produ
 
 ---
 
-## ⚙️ STACK
+<!-- STACK -->
+### ⚙️ &nbsp;STACK
 
-### Tech Stack
+## Tech Stack
 
 **BACKEND**
 
@@ -74,7 +79,7 @@ Cross-platform mobile applications that are fast, intuitive, and ready for produ
 
 **DATABASE & INFRASTRUCTURE**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -86,27 +91,41 @@ Cross-platform mobile applications that are fast, intuitive, and ready for produ
 
 ---
 
-## 🎯 FOCUS
+<!-- FOCUS -->
+### 🎯 &nbsp;FOCUS
 
-### Current Focus
+## Current Focus
 
 ```
 🚀 Pharmacy POS System
-Laravel • Next.js • PostgreSQL — production-grade, not a prototype.
+Laravel · Next.js · PostgreSQL — Production-grade, not a prototype.
 ```
 
-- ✦ Inventory & stock expiry tracking
-- ✦ Supplier & purchase order management
-- ✦ Customer profiles & purchase history
-- ✦ Billing, invoicing & receipt printing
-- ✦ Sales analytics & reporting dashboard
-- ✦ Role-based access control
+<table>
+<tr>
+<td width="50%">
+
+- ◆ &nbsp;Inventory & stock expiry tracking
+- ◆ &nbsp;Supplier & purchase order management
+- ◆ &nbsp;Customer profiles & purchase history
+
+</td>
+<td width="50%">
+
+- ◆ &nbsp;Billing, invoicing & receipt printing
+- ◆ &nbsp;Sales analytics & reporting dashboard
+- ◆ &nbsp;Role-based access control
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 MINDSET
+<!-- MINDSET -->
+### 🧠 &nbsp;MINDSET
 
-### How We Think
+## How We Think
 
 <table>
 <tr>
@@ -145,19 +164,23 @@ Every sprint is a chance to do it better than the last.
 
 ---
 
-## 🔗 CONNECT
+<!-- CONNECT -->
+### 🔗 &nbsp;CONNECT
 
-### Follow Us
+## Follow Us
 
 Stay updated with what we're shipping.
 
+<br/>
+
 [![Instagram](https://img.shields.io/badge/@hashc__oding-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hashc_oding)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/Hash_Company-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/hash-company)
 
 ---
 
 <div align="center">
 
-*built with precision &nbsp;•&nbsp; © Hash Labs*
+<sub>built with precision &nbsp;•&nbsp; © Hash Labs</sub>
 
 </div>
