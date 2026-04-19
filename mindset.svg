@@ -1,0 +1,68 @@
+<svg width="900" height="150" viewBox="0 0 900 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6c63ff" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card 1 -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.1s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,15;0,0" dur="0.5s" begin="0.1s" fill="freeze"/>
+    <rect x="0" y="0" width="216" height="140" rx="12" fill="#0f1219" stroke="#1e2330" stroke-width="1"/>
+    <rect x="0" y="0" width="216" height="140" rx="12" fill="url(#cardGlow)" opacity="0">
+      <animate attributeName="opacity" values="0;1;0" dur="4s" begin="2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="18" y="30" font-family="monospace" font-size="12.5" fill="#00d4ff">// clean_code</text>
+    <line x1="18" y1="40" x2="198" y2="40" stroke="#1e2330" stroke-width="0.8"/>
+    <text x="18" y="62" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#64748b">No shortcuts. Readable,</text>
+    <text x="18" y="80" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#64748b">maintainable architecture</text>
+    <text x="18" y="98" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#64748b">is non-negotiable.</text>
+  </g>
+
+  <!-- Card 2 -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.4s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,15;0,0" dur="0.5s" begin="0.4s" fill="freeze"/>
+    <rect x="228" y="0" width="216" height="140" rx="12" fill="#0f1219" stroke="#1e2330" stroke-width="1"/>
+    <rect x="228" y="0" width="216" height="140" rx="12" fill="url(#cardGlow)" opacity="0">
+      <animate attributeName="opacity" values="0;1;0" dur="4s" begin="2.5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="246" y="30" font-family="monospace" font-size="12.5" fill="#00d4ff">// systems_thinking</text>
+    <line x1="246" y1="40" x2="426" y2="40" stroke="#1e2330" stroke-width="0.8"/>
+    <text x="246" y="62" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#64748b">We design for scale from</text>
+    <text x="246" y="80" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#64748b">day one — not as an</text>
+    <text x="246" y="98" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#64748b">afterthought.</text>
+  </g>
+
+  <!-- Card 3 -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.7s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,15;0,0" dur="0.5s" begin="0.7s" fill="freeze"/>
+    <rect x="456" y="0" width="216" height="140" rx="12" fill="#0f1219" stroke="#1e2330" stroke-width="1"/>
+    <rect x="456" y="0" width="216" height="140" rx="12" fill="url(#cardGlow)" opacity="0">
+      <animate attributeName="opacity" values="0;1;0" dur="4s" begin="3s" repeatCount="indefinite"/>
+    </rect>
+    <text x="474" y="30" font-family="monospace" font-size="12.5" fill="#00d4ff">// ship_it</text>
+    <line x1="474" y1="40" x2="654" y2="40" stroke="#1e2330" stroke-width="0.8"/>
+    <text x="474" y="62" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#64748b">Ideas are nothing without</text>
+    <text x="474" y="80" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#64748b">execution. We build and</text>
+    <text x="474" y="98" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#64748b">we deliver.</text>
+  </g>
+
+  <!-- Card 4 -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.0s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,15;0,0" dur="0.5s" begin="1.0s" fill="freeze"/>
+    <rect x="684" y="0" width="216" height="140" rx="12" fill="#0f1219" stroke="#1e2330" stroke-width="1"/>
+    <rect x="684" y="0" width="216" height="140" rx="12" fill="url(#cardGlow)" opacity="0">
+      <animate attributeName="opacity" values="0;1;0" dur="4s" begin="3.5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="702" y="30" font-family="monospace" font-size="12.5" fill="#00d4ff">// always_improving</text>
+    <line x1="702" y1="40" x2="882" y2="40" stroke="#1e2330" stroke-width="0.8"/>
+    <text x="702" y="62" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#64748b">Every sprint is a chance</text>
+    <text x="702" y="80" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#64748b">to do it better than</text>
+    <text x="702" y="98" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#64748b">the last.</text>
+  </g>
+</svg>

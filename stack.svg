@@ -1,0 +1,93 @@
+<svg width="900" height="130" viewBox="0 0 900 130" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="130" fill="#0d0f1a" rx="12"/>
+
+  <!-- BACKEND -->
+  <text x="20" y="22" font-family="monospace" font-size="9" fill="#374151" letter-spacing="2">BACKEND</text>
+
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.2s" fill="freeze"/>
+    <rect x="20" y="30" width="94" height="28" rx="14" fill="#1a0808" stroke="#FF2D20" stroke-width="0.8"/>
+    <circle cx="38" cy="44" r="4" fill="#FF2D20"><animate attributeName="r" values="4;5.5;4" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="50" y="49" font-family="monospace" font-size="11.5" fill="#e2e8f0">Laravel</text>
+  </g>
+
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.5s" fill="freeze"/>
+    <rect x="122" y="30" width="68" height="28" rx="14" fill="#130f1a" stroke="#777BB4" stroke-width="0.8"/>
+    <circle cx="140" cy="44" r="4" fill="#777BB4"><animate attributeName="r" values="4;5.5;4" dur="2s" begin="0.3s" repeatCount="indefinite"/></circle>
+    <text x="152" y="49" font-family="monospace" font-size="11.5" fill="#e2e8f0">PHP</text>
+  </g>
+
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.8s" fill="freeze"/>
+    <rect x="198" y="30" width="88" height="28" rx="14" fill="#091509" stroke="#339933" stroke-width="0.8"/>
+    <circle cx="216" cy="44" r="4" fill="#339933"><animate attributeName="r" values="4;5.5;4" dur="2s" begin="0.6s" repeatCount="indefinite"/></circle>
+    <text x="228" y="49" font-family="monospace" font-size="11.5" fill="#e2e8f0">Node.js</text>
+  </g>
+
+  <!-- FRONTEND -->
+  <text x="310" y="22" font-family="monospace" font-size="9" fill="#374151" letter-spacing="2">FRONTEND</text>
+
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.1s" fill="freeze"/>
+    <rect x="310" y="30" width="80" height="28" rx="14" fill="#111111" stroke="#ffffff" stroke-width="0.6" stroke-opacity="0.5"/>
+    <circle cx="328" cy="44" r="4" fill="#ffffff"><animate attributeName="r" values="4;5.5;4" dur="2s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <text x="340" y="49" font-family="monospace" font-size="11.5" fill="#e2e8f0">Next.js</text>
+  </g>
+
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.4s" fill="freeze"/>
+    <rect x="398" y="30" width="70" height="28" rx="14" fill="#091520" stroke="#61DAFB" stroke-width="0.8"/>
+    <circle cx="416" cy="44" r="4" fill="#61DAFB"><animate attributeName="r" values="4;5.5;4" dur="2s" begin="1.2s" repeatCount="indefinite"/></circle>
+    <text x="428" y="49" font-family="monospace" font-size="11.5" fill="#e2e8f0">React</text>
+  </g>
+
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.7s" fill="freeze"/>
+    <rect x="476" y="30" width="102" height="28" rx="14" fill="#090f20" stroke="#3178C6" stroke-width="0.8"/>
+    <circle cx="494" cy="44" r="4" fill="#3178C6"><animate attributeName="r" values="4;5.5;4" dur="2s" begin="1.5s" repeatCount="indefinite"/></circle>
+    <text x="506" y="49" font-family="monospace" font-size="11.5" fill="#e2e8f0">TypeScript</text>
+  </g>
+
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.0s" fill="freeze"/>
+    <rect x="586" y="30" width="108" height="28" rx="14" fill="#091520" stroke="#06B6D4" stroke-width="0.8"/>
+    <circle cx="604" cy="44" r="4" fill="#06B6D4"><animate attributeName="r" values="4;5.5;4" dur="2s" begin="1.8s" repeatCount="indefinite"/></circle>
+    <text x="616" y="49" font-family="monospace" font-size="11.5" fill="#e2e8f0">Tailwind CSS</text>
+  </g>
+
+  <!-- DB & INFRA -->
+  <text x="20" y="88" font-family="monospace" font-size="9" fill="#374151" letter-spacing="2">DATABASE &amp; INFRASTRUCTURE</text>
+
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.3s" fill="freeze"/>
+    <rect x="20" y="96" width="110" height="28" rx="14" fill="#090f1a" stroke="#336791" stroke-width="0.8"/>
+    <circle cx="38" cy="110" r="4" fill="#336791"><animate attributeName="r" values="4;5.5;4" dur="2s" begin="2.1s" repeatCount="indefinite"/></circle>
+    <text x="50" y="115" font-family="monospace" font-size="11.5" fill="#e2e8f0">PostgreSQL</text>
+  </g>
+
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.6s" fill="freeze"/>
+    <rect x="138" y="96" width="76" height="28" rx="14" fill="#090f1a" stroke="#4479A1" stroke-width="0.8"/>
+    <circle cx="156" cy="110" r="4" fill="#4479A1"><animate attributeName="r" values="4;5.5;4" dur="2s" begin="2.4s" repeatCount="indefinite"/></circle>
+    <text x="168" y="115" font-family="monospace" font-size="11.5" fill="#e2e8f0">MySQL</text>
+  </g>
+
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.9s" fill="freeze"/>
+    <rect x="222" y="96" width="70" height="28" rx="14" fill="#1a0909" stroke="#DC382D" stroke-width="0.8"/>
+    <circle cx="240" cy="110" r="4" fill="#DC382D"><animate attributeName="r" values="4;5.5;4" dur="2s" begin="2.7s" repeatCount="indefinite"/></circle>
+    <text x="252" y="115" font-family="monospace" font-size="11.5" fill="#e2e8f0">Redis</text>
+  </g>
+
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.2s" fill="freeze"/>
+    <rect x="300" y="96" width="80" height="28" rx="14" fill="#091520" stroke="#2496ED" stroke-width="0.8"/>
+    <circle cx="318" cy="110" r="4" fill="#2496ED"><animate attributeName="r" values="4;5.5;4" dur="2s" begin="3.0s" repeatCount="indefinite"/></circle>
+    <text x="330" y="115" font-family="monospace" font-size="11.5" fill="#e2e8f0">Docker</text>
+  </g>
+
+  <!-- MOBILE -->
+  <text x="420" y="88" font-family="monospace" font-size="9" fill="#374151" letter-spacing="2">MOBILE</text>
+
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.5s" fill="freeze"/>
+    <rect x="420" y="96" width="114" height="28" rx="14" fill="#091520" stroke="#61DAFB" stroke-width="0.8"/>
+    <circle cx="438" cy="110" r="4" fill="#61DAFB"><animate attributeName="r" values="4;5.5;4" dur="2s" begin="3.3s" repeatCount="indefinite"/></circle>
+    <text x="450" y="115" font-family="monospace" font-size="11.5" fill="#e2e8f0">React Native</text>
+  </g>
+
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.8s" fill="freeze"/>
+    <rect x="542" y="96" width="80" height="28" rx="14" fill="#090f1a" stroke="#54C5F8" stroke-width="0.8"/>
+    <circle cx="560" cy="110" r="4" fill="#54C5F8"><animate attributeName="r" values="4;5.5;4" dur="2s" begin="3.6s" repeatCount="indefinite"/></circle>
+    <text x="572" y="115" font-family="monospace" font-size="11.5" fill="#e2e8f0">Flutter</text>
+  </g>
+</svg>
